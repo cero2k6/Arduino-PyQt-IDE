@@ -1,2 +1,12 @@
+bii_ide.txt
+bii-ide/bii_ide.py
+
+# PyDev generated files
+.pydev*
+*.pyc
+.coverage
+
+# IDEs
 .project
-.pydevproject
+.metadata
+.idea
